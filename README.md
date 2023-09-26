@@ -5,8 +5,8 @@
 
 - 🌱 I’m digging deeper into **Laravel and Digging into Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on [Cinema Ticket Application](https://github.com/mghako/cinema-ticket-app)
-
+- 👯 I’m looking to collaborate on Mobile apps.
+  
 - 🤝 I’m working as **Senior Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mghako?tab=repositories](https://github.com/mghako?tab=repositories)
