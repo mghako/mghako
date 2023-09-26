@@ -9,17 +9,17 @@
 
 - 👯 I’m looking to collaborate on [Cinema Ticket Application](https://github.com/mghako/cinema-ticket-app)
 
-- 🤝 I’m looking for a job with **Web Developer Position**
+- 🤝 I’m working as **Senior Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mghako?tab=repositories](https://github.com/mghako?tab=repositories)
 
-- 📝 I regularly write articles on [blog.hak9.me](www.mrhako.me/blogs)
+- 📝 I regularly write articles on [blog.hak9.me](www.mrhako.me/blogs) **inactive now**
 
 - 💬 Ask me about **laravel , javascript and animes xD**
 
-- 📫 How to reach me **mail@hak9.me**
+- 📫 How to reach me **htetaungko@yahoo.ocm**
 
-- ⚡ Fun fact **Spend my times with my girlfriend. Play games with friends and love to read manga**
+- ⚡ Fun fact **Play games with friends and love to read manga**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
